@@ -132,11 +132,11 @@
 ![image](https://user-images.githubusercontent.com/89646624/147728379-e4c7fb61-8168-4185-89d0-9d9c6c186134.png)
 
 ## 5.4 Cài đặt Trang chủ.
-## Ở tab Appearance, chọn Customize
+#### Ở tab Appearance, chọn Customize
 ![image](https://user-images.githubusercontent.com/89646624/147728517-69e5c799-76cd-461b-a574-c9a757171618.png)
-## Chọn Homepage Settings
+#### Chọn Homepage Settings
 ![image](https://user-images.githubusercontent.com/89646624/147728602-27e6166f-6e78-4a8b-baab-f004e3d4a4a2.png)
-## Chọn static page và chọn Trang chủ ở mục Homepage.
+#### Chọn static page và chọn Trang chủ ở mục Homepage.
 ![image](https://user-images.githubusercontent.com/89646624/147728665-db5fc92e-c3be-49a2-ab8e-cb405b171e59.png)
 
 ## 6. Tạo snapshots cho trang web.
